@@ -1,1 +1,1 @@
-A fun tinder for dofs website using bootstrap
+A fun tinder for dogs website using bootstrap
